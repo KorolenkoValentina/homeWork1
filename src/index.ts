@@ -125,9 +125,5 @@ class Student {
     return (averageGrade + attendancePercentage) / 2;
   }
 
-
-
-
-  
 }
 
